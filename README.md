@@ -5,7 +5,7 @@ The project provides a unified interface for interacting with multiple backend L
 
 <div align="center">
     <img src="kawaii.svg" width="50%" height="300%" />
-</div
+</div>
 
 ---
 
